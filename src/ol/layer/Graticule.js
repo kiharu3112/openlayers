@@ -154,7 +154,7 @@ const INTERVALS = [
  *   fill: new Fill({
  *     color: 'rgba(0,0,0,1)'
  *   }),
- *   stroke: Stroke({
+ *   stroke: new Stroke({
  *     color: 'rgba(255,255,255,1)',
  *     width: 3
  *   })
